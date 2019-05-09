@@ -1,0 +1,7 @@
+name "Courtney Maricle"
+student_id "V00856383"
+email "cmaricle@uvic.ca"
+term "2019-05"
+course "SENG475"
+section "T01"
+assignment "cpp_tools"
